@@ -1,6 +1,4 @@
-# Proiect POO 2025
-
-## Aplicație turistică
+# Aplicație turistică
 
 **Implementat de :** Sirbu-Cretu Antonio-Mihai
 
